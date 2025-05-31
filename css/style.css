@@ -1,0 +1,17 @@
+.red{
+    color:red;
+    font-weight:bold;
+}
+
+h1{
+    color: #1e00ff;
+    background-color: #f0f0f0;
+    padding:55px;
+    border:2px solid black;
+    margin-left: 55px;
+}
+
+.highlife{
+padding-bottom: 15px ;
+padding-left: 15px;
+}
